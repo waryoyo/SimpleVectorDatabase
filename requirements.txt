@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+faiss-cpu
+sqlalchemy
+sqlite3
+pydantic
+python-dotenv
